@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: ja
+name: ddev-craftcms-pe
+primary: true
+siteGroup: a282ed80-cf31-439b-98ee-6db7cf880755 # ddev-craftcms-pe
+sortOrder: 1

@@ -1,0 +1,22 @@
+dateModified: 1696491601
+email:
+  fromEmail: twpoet@nifty.com
+  fromName: ddev-craftcms-pe
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    1b51f17e-9f05-45b5-9d08-41be2cf3b8fe: Common # Common
+    a282ed80-cf31-439b-98ee-6db7cf880755: ddev-craftcms-pe # ddev-craftcms-pe
+    b89638b2-9d7f-4979-967e-c64ba8127863: ddev-craftcms-pe # ddev-craftcms-pe
+system:
+  edition: solo
+  live: true
+  name: ddev-craftcms-pe
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
