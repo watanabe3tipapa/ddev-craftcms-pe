@@ -4,6 +4,6 @@
   - PHP 8.1
   - MySQL 8.0
   ---
-> See Wiki for more details.
+> See [Wiki](https://github.com/watanabe3tipapa/ddev-craftcms-pe/wiki) for more details.
 
   ^C
