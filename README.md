@@ -4,5 +4,6 @@
   - PHP 8.1
   - MySQL 8.0
   ---
-  > See Wiki for more details.
+> See Wiki for more details.
+
   ^C
